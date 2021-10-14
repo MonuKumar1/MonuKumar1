@@ -29,10 +29,7 @@
 <a href="https://github.com/MonuKumar1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonuKumar1&langs_count=7)" />
 </a>
-  <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <!-- <a href="https://github.com/MonuKumar1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MonuKumar1" />
