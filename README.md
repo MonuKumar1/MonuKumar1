@@ -4,9 +4,9 @@
  <a href="https://github.com/MonuKumar1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MonuKumar1&theme=darcula&show_icons=true" />
 </a>
-<a href="https://github.com/MonuKumar1">
+<!-- <a href="https://github.com/MonuKumar1">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MonuKumar1&theme=darcula" />
-</a>
+</a> -->
 <br>
  <!--START_SECTION:waka-->
 ```text
