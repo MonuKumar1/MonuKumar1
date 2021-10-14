@@ -18,10 +18,10 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> </code> 
+  <code> <img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/mongodb/mongodb-ar21.svg"> </code>
+<!--   <code> <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> </code>  -->
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"> </code> 
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"> </code> 
+<!--   <code> <img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"> </code>  -->
   </p>
  </div> 
  <div align="center">
