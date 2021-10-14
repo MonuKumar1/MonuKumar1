@@ -8,11 +8,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MonuKumar1&theme=darcula" />
 </a>
 <br>
- <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+
  
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Zone
  <br>
@@ -33,6 +29,11 @@ No Activity tracked this Week
 <a href="https://github.com/MonuKumar1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonuKumar1&langs_count=7)" />
 </a>
+  <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
 <!-- <a href="https://github.com/MonuKumar1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MonuKumar1" />
 </a> -->
