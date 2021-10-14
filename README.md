@@ -32,6 +32,9 @@
 
 <a href="https://github.com/MonuKumar1">
  <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 </a>
  </div> 
