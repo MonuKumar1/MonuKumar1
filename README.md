@@ -28,7 +28,7 @@
 <a href="https://github.com/MonuKumar1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonuKumar1&langs_count=6)" />
 </a>
-<a href="https://github.com/shravanatirtha">
+<a href="https://github.com/MonuKumar1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MonuKumar1" />
 </a>
  </div> 
