@@ -30,9 +30,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonuKumar1&langs_count=7)" />
 </a>
 
-<!-- <a href="https://github.com/MonuKumar1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MonuKumar1" />
-</a> -->
+<a href="https://github.com/MonuKumar1">
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</a>
  </div> 
 
 ### Facts about me:<br>
