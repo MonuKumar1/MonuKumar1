@@ -15,7 +15,7 @@
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"> </code> 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> </code>
@@ -26,7 +26,7 @@
  </div> 
  <div align="center">
 <a href="https://github.com/MonuKumar1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonuKumar1&langs_count=6)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonuKumar1&langs_count=7)" />
 </a>
 <a href="https://github.com/MonuKumar1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MonuKumar1" />
