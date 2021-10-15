@@ -30,13 +30,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonuKumar1&langs_count=7)" />
 </a>
 
-<!-- <a href="https://github.com/MonuKumar1">
-<!--  START_SECTION:waka -->
-```text
-Other   1 hr 38 mins    █████████████████████████   99.83 % 
-```
-<!-- END_SECTION:waka -->
-</a> -->
+
  </div> 
 
 ### Facts about me:<br>
