@@ -31,11 +31,11 @@
 </a>
 
 <a href="https://github.com/MonuKumar1">
- <!--START_SECTION:waka-->
+ START_SECTION:waka
 ```text
 Other   1 hr 38 mins    █████████████████████████   99.83 % 
 ```
-<!--END_SECTION:waka-->
+END_SECTION:waka
 </a>
  </div> 
 
