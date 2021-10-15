@@ -33,7 +33,7 @@
 <a href="https://github.com/MonuKumar1">
  <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Other   1 hr 38 mins    █████████████████████████   99.83 % 
 ```
 <!--END_SECTION:waka-->
 </a>
