@@ -34,7 +34,7 @@
  </div> 
 
 ### Facts about me:<br>
-👧 He/His/Him<br>
+👦 He/His/Him<br>
 🍚 Vegan Geek<br>
 💻 C++ Programmer<br>
 🔄 Routine : Eat - Sleep - Code - Repeat<br>
